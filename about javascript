@@ -1,0 +1,50 @@
+Scitping Language:
+===================
+1.It is using a script lines already written which can be used for a scene
+2.It is preplanned way
+3.It is an outline that we memorize 
+4.Python, perl are scripting language
+
+
+Diff between programming language and Scripting language
+=========================================================
+
+Programming language:
+======================= 
+   1.We will compile them first and then a binary file will be executed
+   2.We can't see the source code
+Scripting language:
+=====================
+   1.It will be executed directly
+   2.Source code is needed in the running system so that source code will be know to others
+
+
+History of javascript:
+=======================
+1.Javascript was created in 10 days in may 1995 by brandon eich, he was working at netscape and currently in mozilla
+2.original name is mocha/livescript 
+3.name javascript was adapted when netscape recevived trademark license from netscape
+4.Filling the need of scripting language within the earlier webbrowser
+5.SunMicrosystem claimed the trademark
+6.SunMicrosystem wanted their language as standaridized and approached w3c and failed and then moved to European Computer Manufactuers Association (ECMA)
+
+Javascript is an trademark 
+1.ECMA is used for client side scripting and there are multiple version of ECMA
+2.1997 Javascript was offically standardized by ECMA
+3.Microsoft created their ow version of brower script called Jscript similar like Javascript
+4.When a conflict arise between Jscript and Javascript for standardizing the language.
+5.ECMA compromised by calling this standard ECMA script so that Jscript and Javascript are both standards of ECMA Script to make it compatible they also privide additional features
+
+
+1997-First Edition of ECMA was published
+1998 - second Edition(Editorial Changes)
+1999 - Regular Expressions, Try catch ,control statements, 
+4 - Abandoded
+2009 - Adds Strict mode a subset intended to provide more thorough error checking and avoid error-prone constructs, Setters and Getters , JSON
+2011 - Fully aligned with ISO standards
+2015 - ECMASCRIPT(6) ES6 contains classes and modules,new features of for of loop, promises , arrays, collections
+2016 - ES6 - 7th Edition contains themes of langugage reform, code isolation, exponentiation operator and Array.prototype,includes
+2017 - ES2017 - Contains concurrency atomics and syntatic integration with promises (async/wait)
+
+
+
