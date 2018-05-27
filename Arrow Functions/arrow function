@@ -1,0 +1,54 @@
+Installing Script:
+ https://www.google.co.in/search?q=how+to+run+a+js+file+in+atom&oq=how+to+run+a+js+&aqs=chrome.2.69i57j0j69i59l2j0l2.6028j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1
+
+1.What is function?
+   A function is a group of instructions, also known as a named procedure,
+   used by programming languages to return a single result or a set of results.
+
+2.Why function is need in programming?
+    Reusability
+
+Arrow function is used to reduce the characters
+Instead of writing the below codes
+
+Example:
+==========
+function test () {
+  return 2;
+}
+
+We can simply write  as
+
+test = () => 2;
+
+Arrow functions are anonymous there is no way to give a name to arrow function
+
+Benefits of using Arrow Functions:
+=====================================
+
+#1. Shorter Syntax
+    Ref: Ex.1 in arrowFunction.js
+  Syntax:
+  ========
+
+(parameters) => { statements }
+A.If there is no parameters we can use
+  () => { statements }
+B.When there is only one parameter we can use the following (optional of using ())
+  parameters => { statements }
+C.If we are going to return only expression we can use:
+  parameters => expression   (which is equivalent to the below code)
+
+  function (parameters){
+    return expression;
+  }
+D.How a json object is used in arrow Function
+   x => {x: y} //won't work instead we should use the following
+   x => ({x: y})
+
+
+#2.Promises and this
+
+p.then(function (v) {return v.id}) // instead of using then we can do it simply as
+
+p.then(v => v.id)   
