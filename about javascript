@@ -1,9 +1,10 @@
 Scitping Language:
 ===================
-1.It is using a script lines already written which can be used for a scene
+1.It is using script lines already written which can be used for a scene
 2.It is preplanned way
 3.It is an outline that we memorize 
-4.Python, perl are scripting language
+4.Python, perl are scripting language Examples
+5.Java , C++ are the programming language
 
 
 Diff between programming language and Scripting language
@@ -11,11 +12,11 @@ Diff between programming language and Scripting language
 
 Programming language:
 ======================= 
-   1.We will compile them first and then a binary file will be executed
+   1.We will compile the code first and then we will get a binary file which can be used in any device similar like .exe file
    2.We can't see the source code
 Scripting language:
 =====================
-   1.It will be executed directly
+   1.It will be executed directly to the machines
    2.Source code is needed in the running system so that source code will be know to others
 
 
@@ -23,20 +24,20 @@ History of javascript:
 =======================
 1.Javascript was created in 10 days in may 1995 by brandon eich, he was working at netscape and currently in mozilla
 2.original name is mocha/livescript 
-3.name javascript was adapted when netscape recevived trademark license from netscape
+3.Name javascript was adapted when netscape received trademark license
 4.Filling the need of scripting language within the earlier webbrowser
 5.SunMicrosystem claimed the trademark
-6.SunMicrosystem wanted their language as standaridized and approached w3c and failed and then moved to European Computer Manufactuers Association (ECMA)
+6.SunMicrosystem wanted their language as standardized and approached w3c and failed and then moved to European Computer Manufactuers Association (ECMA)
 
 Javascript is an trademark 
 1.ECMA is used for client side scripting and there are multiple version of ECMA
 2.1997 Javascript was offically standardized by ECMA
-3.Microsoft created their ow version of brower script called Jscript similar like Javascript
+3.Microsoft created their own version of broswer script called Jscript similar like Javascript
 4.When a conflict arise between Jscript and Javascript for standardizing the language.
-5.ECMA compromised by calling this standard ECMA script so that Jscript and Javascript are both standards of ECMA Script to make it compatible they also privide additional features
+5.ECMA compromised by calling this standard ECMA script so that Jscript and Javascript are both standards of ECMA Script to make it compatible they also provide additional features
 
 
-1997-First Edition of ECMA was published
+1997 - First Edition of ECMA was published
 1998 - second Edition(Editorial Changes)
 1999 - Regular Expressions, Try catch ,control statements, 
 4 - Abandoded
